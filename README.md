@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a graduate student in astrophysics at the University of Minnesota. Reach me at isaac413@umn.edu. 
+
+I am working on processing images of galaxies that have hosted Type Ia supernovae. With this data, I hope to find a correlation between a property of the galaxies and properties of the supernovae themselves. From this, I can refine our use of Type Ia supernovae to study the expansion of the universe. 
+
+I am learning more about using command line/bash and python. I'm about to start learning R for use in Bayesian statistics. 
+
 <!--
 **AnnIsaacs7/AnnIsaacs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
